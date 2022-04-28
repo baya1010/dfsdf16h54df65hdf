@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Fichier de vérification de la propriété du domaine pour Microsoft 365 : placer dans la racine du site web",
+  "Domain": "326e607f.dfsdf16h54df65hdf.pages.dev",
+  "Id": "e29b0cb3-9274-4fae-b638-7f31e785ff16"
+}
